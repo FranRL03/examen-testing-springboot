@@ -29,6 +29,8 @@ class IntegrationTestTemplate {
 
 	@Test
 	void test() {
+
+
 		assertTrue(true);
 	}
 
